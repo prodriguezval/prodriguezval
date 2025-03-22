@@ -32,7 +32,7 @@ Although many of my projects are private, I've had the opportunity to work on ch
 
 ## Connect with Me
 
-* [LinkedIn Profile URL](https://www.linkedin.com/in/prodriguezval/)
+* [LinkedIn](https://www.linkedin.com/in/prodriguezval/)
 
 Feel free to reach out if you're interested in collaborating or discussing backend and DevOps opportunities!
 
